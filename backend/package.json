@@ -1,15 +1,15 @@
 {
-  "name": "tmg-mass-gaja-ai-chatbot",
+  "name": "tmg-mass-gaja-ai-backend",
   "version": "1.0.0",
-  "description": "TMG MASS GAJA AI backend server",
-  
-},
+  "main": "server.js",
   "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
-    "express": "^4.18.2",
     "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
-    "body-parser": "^1.20.2"
+    "dotenv": "^16.3.1",
+    "express": "^4.19.2",
     "openai": "^4.0.0"
   }
-
+}
