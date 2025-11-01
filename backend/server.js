@@ -8,7 +8,7 @@ const app = express();
 app.use(cors({
   origin: [
     "http://localhost:3000",
-    "https://tmg-mass-gaja-ai-chatbot-z4hp.vercel.app"
+    "https://tmg-mass-gaja-ai-chatbot-ah2y.vercel.app/"
   ]
 }));
 app.use(express.json());
