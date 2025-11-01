@@ -40,7 +40,7 @@ function App() {
     setLoading(true);
     try {
       const res = await axios.post(
-        "https://your-backend-url.vercel.app/chat",
+        "https://tmg-mass-gaja-ai-chatbot.vercel.app/chat",
         { message }
       );
       const botReply = res.data.reply;
