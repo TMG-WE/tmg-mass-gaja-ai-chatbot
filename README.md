@@ -17,7 +17,7 @@ tmg-mass-gaja-ai-chatbot/
 cd backend
 npm install
 # create .env with:
-# TMG_MASS_GAJA=your_api_key_here
+# TMG_MASS_GAJA=Sk-proj—XuuUQbaPlSE1RoDDvqYJ071-EMrVaHJU5DNyEPOPcGPpUphlilFd5lX08KBQh7koabxHaPYG1T3BlbkFJsB6np1jVTgroIwcnBDP7AmNCXnBcUPaEUkA6-_PTp1yp-82bYB0MHmwY1KzhXv18S_ClVYv2oA
 npm start
 ```
 
