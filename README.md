@@ -45,7 +45,7 @@ expo start
 2. On Vercel dashboard, import project -> connect the GitHub repo.
 3. In Project Settings -> Environment Variables, add:
    - Key: TMG_MASS_GAJA
-   - Value: your_openai_api_key_here
+   - Value: Sk-proj—XuuUQbaPlSE1RoDDvqYJ071-EMrVaHJU5DNyEPOPcGPpUphlilFd5lX08KBQh7koabxHaPYG1T3BlbkFJsB6np1jVTgroIwcnBDP7AmNCXnBcUPaEUkA6-_PTp1yp-82bYB0MHmwY1KzhXv18S_ClVYv2oA
 4. Deploy. Copy the deployment URL and paste it into web and mobile source files.
 
 ## Security
