@@ -19,7 +19,7 @@ export default function App() {
     setInput("");
     setLoading(true);
     try {
-      const res = await axios.post("https://your-backend-url.vercel.app/chat", { message: input });
+      const res = await axios.post("https://tmg-mass-gaja-ai-chatbot.vercel.app/chat", { message: input });
       const botMsg = { sender: "bot", text: res.data.reply };
       setChat((c) => [...c, botMsg]);
       speak(res.data.reply);
